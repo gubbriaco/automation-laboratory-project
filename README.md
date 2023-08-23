@@ -1,4 +1,4 @@
-# progetto-laboratorio-di-automatica
-**Progetto di Laboratorio di Automatica 2021 - Corso della Laurea Triennale in Ingegneria Informatica**
+# Signal Processing, PID, ARMA in MATLAB and Simulink
+**Automation Laboratory 2021 - Bachelor's Degree Course in Computer Engineering**
 <br><br>
-Progetto riguardante DFT e applicazione dell'algoritmo FFT in MATLAB, calibrazione e identificazione di un processo black-box e confronto delle risposte del processo black-box con quelle ottenute tramite modello identificato.
+Project concerning DFT and application of the FFT algorithm in MATLAB, calibration and identification of a black-box process and comparison of the responses of the black-box process with those obtained through the identified model.
